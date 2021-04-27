@@ -1,5 +1,5 @@
 
-In this weeks homework we had to create a team profile generator where we used a command line to write in certain details that then generated into an html.
+In this weeks homework we had to create a team profile generator where we used a command line to write in certain details to build our team that then generated into an html.
 Youtube link: https://www.youtube.com/watch?v=-vvm8CSBazo
 Repolink: https://github.com/markhamtrenton/10-Object-Oriented-Programming
 
