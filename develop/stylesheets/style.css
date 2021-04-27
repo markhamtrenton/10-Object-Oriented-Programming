@@ -1,0 +1,25 @@
+
+.team-heading{ 
+    background-color: purple;
+   color: white;   
+    letter-spacing: 5px; 
+    text-align: center; 
+    opacity: 0.9;
+}
+
+body {
+    background-color: royalblue;
+}
+
+
+.card{ 
+    margin: 10px; 
+    background-color: blue;
+    box-shadow: 5px 10px gray; 
+}
+
+.card-header{ 
+    text-align: center; 
+    display: inline-block; 
+    color: grey; 
+}
